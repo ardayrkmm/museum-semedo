@@ -1,64 +1,64 @@
-# 🏛️ Website Museum Semedo
+# 🏛️ Museum Semedo Website
 
-Website **Museum Semedo** merupakan aplikasi **frontend-only** yang bertujuan untuk menyajikan informasi mengenai Museum Semedo secara digital. Website ini dikembangkan sebagai media edukasi dan informasi bagi masyarakat umum.
+The **Museum Semedo** website is a **frontend-only** application designed to present information about Museum Semedo in a digital format. This website was developed as an educational and informational medium for the general public.
 
-> **Catatan:** Website ini tidak menggunakan backend maupun database. Seluruh konten ditampilkan secara statis.
-
----
-
-## 🛠️ Teknologi yang Digunakan
-
-* **HTML5** – Struktur halaman website
-* **CSS3** – Tampilan dan layout website
-* **JavaScript (Vanilla JS)** – Interaksi dan manipulasi DOM
+> **Note:** This website does not use a backend or database. All content is displayed statically.
 
 ---
 
-## ✨ Fitur Website
+## 🛠️ Technologies Used
 
-* **Halaman Utama (Home)**
-    * Informasi singkat Museum Semedo
-* **Profil Museum**
-    * Sejarah dan latar belakang museum
-* **Informasi Koleksi**
-    * Penjelasan koleksi dan artefak
-* **Antarmuka Pengguna**
-    * Desain responsif
-    * Navigasi sederhana
+* **HTML5** – Website page structure  
+* **CSS3** – Website layout and styling  
+* **JavaScript (Vanilla JS)** – Interaction and DOM manipulation  
 
 ---
 
-## 🚀 Cara Menjalankan Website
+## ✨ Website Features
 
-1.  **Clone repository** dari GitHub:
+* **Home Page**
+    * Brief information about Museum Semedo  
+* **Museum Profile**
+    * History and background of the museum  
+* **Collection Information**
+    * Explanations of collections and artifacts  
+* **User Interface**
+    * Responsive design  
+    * Simple navigation  
+
+---
+
+## 🚀 How to Run the Website
+
+1. **Clone the repository** from GitHub:
     ```bash
-    git clone [https://github.com/username-kamu/museum-semedo.git](https://github.com/username-kamu/museum-semedo.git)
+    git clone https://github.com/username-kamu/museum-semedo.git
     ```
-2.  **Masuk ke folder** proyek:
+2. **Navigate to the project folder:**
     ```bash
     cd museum-semedo
     ```
-3.  Buka file `index.html` melalui browser kesayangan Anda.
+3. Open the `index.html` file using your preferred browser.
 
 ---
 
 ## 👥 Contributors
 
-Thanks goes to ini wonderful people!
+Thanks goes to these wonderful people!
 
 | [<img src="https://github.com/ardayrkmm.png" width="100px;"/><br /><sub><b>Arda</b></sub>](https://github.com/ardayrkmm) | [<img src="https://github.com/gmcbjorjka.png" width="100px;"/><br /><sub><b>Teguh</b></sub>](https://github.com/gmcbjorjka) |
 | :---: | :---: |
 
 ---
 
-## 🎯 Tujuan Pengembangan
+## 🎯 Development Objectives
 
-* Menyediakan media informasi digital Museum Semedo.
-* Meningkatkan aksesibilitas informasi sejarah dan budaya.
-* Mendukung promosi dan edukasi museum.
+* Provide a digital information medium for Museum Semedo.  
+* Improve accessibility to historical and cultural information.  
+* Support museum promotion and education.  
 
 ---
 
-## 📄 Lisensi
+## 📄 License
 
-Proyek ini dibuat untuk keperluan **edukasi dan pengembangan**. Penggunaan dan modifikasi diperbolehkan dengan mencantumkan sumber.
+This project was created for **educational and development** purposes. Use and modification are permitted with proper attribution.
